@@ -3,7 +3,7 @@ import Hero from "./components/Hero"
 import Highlights from "./components/Highlights"
 import Model from "./components/Model"
 import Features from "./components/Features"
-import HowItWorks from "./components/howItWorks"
+import HowItWorks from "./components/HowItWorks"
 
 import * as Sentry from '@sentry/react';
 import Footer from "./components/Footer"
